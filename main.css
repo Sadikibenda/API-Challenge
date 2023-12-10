@@ -20,3 +20,14 @@ li {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     
 }
+
+button {
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    color: white;
+    background-color: rgb(24, 113, 190);
+}
