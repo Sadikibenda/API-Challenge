@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(153, 199, 240);
+}
+
+.container {
+    position: relative;
+    padding: 50px;
+    width: 30em;
+    margin: auto;
+    text-align:  center;
+    top: 5em;
+    background-color: rgb(174, 203, 230);
+   
+}
+
+li {
+    list-style-type: none;
+    font-size: large;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
