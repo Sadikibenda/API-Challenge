@@ -18,6 +18,11 @@ li {
     font-size: large;
     font-style: italic;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 70px;
+    margin: 5px;
+    position: relative;
+    left: 9em;
+    background-color: antiquewhite;
     
 }
 
